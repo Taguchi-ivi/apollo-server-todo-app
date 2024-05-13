@@ -20,6 +20,7 @@
     "@graphql-tools/schema": "^10.0.3",
     "@prisma/client": "^5.13.0",
     "@prisma/studio": "^0.500.0",
+    "dotenv": "^16.4.5",
     "graphql": "^16.8.1",
     "graphql-scalars": "^1.23.0",
     "prisma": "^5.13.0",
